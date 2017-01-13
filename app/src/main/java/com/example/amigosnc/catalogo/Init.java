@@ -15,6 +15,9 @@ public class Init extends Application {
         RealmConfiguration config = new RealmConfiguration.Builder().deleteRealmIfMigrationNeeded().build();
         Realm.setDefaultConfiguration(config);
         //test
+        //test
+        //test
+        //test
     }
 
 }
