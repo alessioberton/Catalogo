@@ -4,30 +4,30 @@
 	"title": "p1",
 	"desc": "d1",
 	"url_img": "http://www.teleboario.it/video/20170123_ribaltamento_camion_Esine_TG_WEB.mp4.jpg",
-	"cat_video": "tbnews"
+	"cat_video": "lacci"
 }, {
 	"ID": 2,
 	"title": "p2",
 	"desc": "d2",
 	"url_img": "http://www.teleboario.it/video/20170123_ribaltamento_camion_Esine_TG_WEB.mp4.jpg",
-	"cat_video": "tbnews"
+	"cat_video": "lucidi"
 }, {
 	"ID": 3,
 	"title": "p3",
 	"desc": "d3",
 	"url_img": "http://www.teleboario.it/video/20170123_ribaltamento_camion_Esine_TG_WEB.mp4.jpg",
-	"cat_video": "tbnews"
+	"cat_video": "accessori"
 }, {
 	"ID": 4,
 	"title": "p4",
 	"desc": "d4",
 	"url_img": "http://www.teleboario.it/video/20170123_ribaltamento_camion_Esine_TG_WEB.mp4.jpg",
-	"cat_video": "tbnews"
+	"cat_video": "lacci"
 }, {
 	"ID": 5,
 	"title": "p5",
 	"desc": "d5",
 	"url_img": "http://www.teleboario.it/video/20170123_ribaltamento_camion_Esine_TG_WEB.mp4.jpg",
-	"cat_video": "tbnews"
+	"cat_video": "lacci"
 }
 ]
