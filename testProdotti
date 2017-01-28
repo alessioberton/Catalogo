@@ -4,30 +4,35 @@
 	"title": "p1",
 	"desc": "d1",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"cat_video": "laccio"
+	"categoria": "laccio"
 }, {
 	"ID": 2,
 	"title": "CREMA AUTOBRILLANTE",
-	"desc": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
+	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
+	"desc2": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo.
+Nutre e lucida all'istante senza bisogno di spazzolare.
+Facile da usare: Immergere delicatamente lo spandilucido nella crema.
+Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare.
+Non serve ripassare con un panno o spazzolare per lucidare.",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"cat_video": "lucido"
+	"categoria": "lucido"
 }, {
 	"ID": 3,
 	"title": "p3",
 	"desc": "d3",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"cat_video": "accessoro"
+	"categoria": "accessoro"
 }, {
 	"ID": 4,
 	"title": "p4",
 	"desc": "d4",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"cat_video": "suoletta"
+	"categoria": "suoletta"
 }, {
 	"ID": 5,
 	"title": "p5",
 	"desc": "d5",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"cat_video": "collante"
+	"categoria": "collante"
 }
 ]
