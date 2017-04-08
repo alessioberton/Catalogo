@@ -1,6 +1,7 @@
 [
 {
 	"ID": 1,
+	"id_chiave": 0,
 	"title": "CREMA AUTOBRILLANTE",
 	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
 	"desc2": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo. Nutre e lucida all'istante senza bisogno di spazzolare. Facile da usare: Immergere delicatamente lo spandilucido nella crema. Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare. Non serve ripassare con un panno o spazzolare per lucidare.",
@@ -9,6 +10,7 @@
 }, {
 	"ID": 2,
 	"title": "SHOE CREAM",
+	"id_chiave": 0,
 	"desc1": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml.",
 	"desc2": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml. L'uso dei colorati mantiene la tonalità della pelle.Istruzioni d'uso: applicarla uniformemente con un panno o uno spandilucido e strofinare.Spazzolare oppure strofinare con un panno pulito per dare lucentezza.",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
@@ -16,6 +18,7 @@
 }, {
 	"ID": 3,
 	"title": "CREMA LUX",
+	"id_chiave": 0,
 	"desc1": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata.",
 	"desc2": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata. Ideale per calzature, arredamento, abbigliamento, pelletteria ed accessori. Istruzioni per l'uso: applicare una piccola quantità di prodotto con un panno pulito e strofinare,Lasciare asciugare e ripassare con un panno per lucidare.",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
@@ -23,12 +26,14 @@
 }, {
 	"ID": 4,
 	"title": "CREMA DETERGENTE",
+	"id_chiave": 0,
 	"desc1": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.",
 	"desc2": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.Adatto per calzature, borse, abbigliamento, interni d'auto etc..Non usare su pelle scamosciata.Istruzioni d'uso: Applicare con un panno morbido e pulito, strofinando con movimenti circolari su tutta la superficie. in particolare sulle zone più sporche. Con un altro panno morbido e pulito pulire su tutta la superficie, sempre con movimenti circolari, togliendo ogni residuo.",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
 	"categoria": "borchiatura"
 }, {
 	"ID": 5,
+	"id_chiave": 0,
 	"title": "CREMA NUTRIENTE",
 	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
 	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
