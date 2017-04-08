@@ -34,5 +34,21 @@
 	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
 	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
 	"categoria": "lucido"
+}, {
+	"ID": 6,
+	"id_chiave": 1,
+	"title": "Chiave errebi 1",
+	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
+	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
+	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
+	"categoria": "chiave"
+}, {
+	"ID": 7,
+	"id_chiave": 2,
+	"title": "Chiave errebi 2",
+	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
+	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
+	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
+	"categoria": "chiave"
 }
 ]
