@@ -1,225 +1,195 @@
-[{
+[
+{
 	"ID": 1,
 	"id_chiave": 0,
-	"title": "CREMA AUTOBRILLANTE",
-	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
-	"desc2": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo. Nutre e lucida all'istante senza bisogno di spazzolare. Facile da usare: Immergere delicatamente lo spandilucido nella crema. Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare. Non serve ripassare con un panno o spazzolare per lucidare.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "acessorio"
+	"title": "Yellowsol",
+	"desc1": "Solette igieniche delicatamente profumate al limone verde",
+	"desc2": "Le solette, grazie all'azione assorbente della schiuma di lattice combinata all'azione deodorante del limone verde e dell'antibatterico, garantiscono un comfort duraturo e la massima igienicità",
+	"url_img": "https://s20.postimg.org/lhsqo65mh/Yellow_Sol.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 2,
 	"id_chiave": 0,
-	"title": "SHOE CREAM",
-	"desc1": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml.",
-	"desc2": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml. L'uso dei colorati mantiene la tonalità della pelle.Istruzioni d'uso: applicarla uniformemente con un panno o uno spandilucido e strofinare.Spazzolare oppure strofinare con un panno pulito per dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "lucido"
+	"title": "Spugnatex",
+	"desc1": "Sottopiede in spugna di cotone 100% schiuma di lattice e fondo cellulosa",
+	"desc2": "Spttopiede forato per una migliore traspirazione sottoposto a trattamento antibatterico assorbente e antiscivolo particolarmente indicato per attività sportiva.",
+	"url_img": "https://s20.postimg.org/be40s0ovt/Spugna_Tex.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 3,
 	"id_chiave": 0,
-	"title": "CREMA LUX",
-	"desc1": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata.",
-	"desc2": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata. Ideale per calzature, arredamento, abbigliamento, pelletteria ed accessori. Istruzioni per l'uso: applicare una piccola quantità di prodotto con un panno pulito e strofinare,Lasciare asciugare e ripassare con un panno per lucidare.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "laccio"
+	"title": "Vero cuoio",
+	"desc1": "Suoletta confezionata con materiali che garantiscono un ottimo comfort e una perfetta traspirazione del vostro piede",
+	"desc2": "Non contiene sostanze che possano irritare la pelle. Un prodotto assolutamente naturale",
+	"url_img": "https://s20.postimg.org/7zlubvth9/Vero_Cuoio.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 4,
 	"id_chiave": 0,
-	"title": "CREMA DETERGENTE",
-	"desc1": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.",
-	"desc2": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.Adatto per calzature, borse, abbigliamento, interni d'auto etc..Non usare su pelle scamosciata.Istruzioni d'uso: Applicare con un panno morbido e pulito, strofinando con movimenti circolari su tutta la superficie. in particolare sulle zone più sporche. Con un altro panno morbido e pulito pulire su tutta la superficie, sempre con movimenti circolari, togliendo ogni residuo.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "borchiatura"
+	"title": "Carbon tex",
+	"desc1": "Suoletta confezionata con materiali che garantiscono un ottimo confort e una perfetta traspirazione del vostro piede",
+	"desc2": "I carboni attivi agiscono in modo da assorbire la traspirazione e distruggere gli odori da scarpe e piedi",
+	"url_img": "https://s20.postimg.org/444o43661/Carbon_Tex.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 5,
 	"id_chiave": 0,
-	"title": "CREMA NUTRIENTE",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "lucido"
+	"title": "Carbone attivo",
+	"desc1": "Suoletta confezionata con materiali che garantiscono un ottimo comfort e una perfetta traspirazione del vostro piede",
+	"desc2": "I carbini attivi agiscono in modo da assorbire la traspirazione e distruggere gli odori da scarpe e piedi",
+	"url_img": "https://s20.postimg.org/6mqd4rrw9/Carbone_Attivo.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 6,
-	"id_chiave": 1,
-	"title": "Chiave errebi 1",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/jm0fwitix/2014-06-04_13.37.59.jpg",
-	"categoria": "chiave"
+	"id_chiave": 0,
+	"title": "Anatomic form",
+	"desc1": "Supporto interno anatomico in gommapiuma",
+	"desc2": "Supporto interno anatomico in gommapiuma a sostegno dell'arcoplantare longitudinale mentre l'oliva metastale sostiene l'arco in senso latitudinale.Rivestimento in vera pella, per una piacevole sensazione di naturale. Effetto antiscivolo garantito da sottile lattice",
+	"url_img": "https://s20.postimg.org/igy42eq61/Atomic_form.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 7,
-	"id_chiave": 2,
-	"title": "Chiave errebi 2",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "chiave"
+	"id_chiave": 0,
+	"title": "Pelle carbone",
+	"desc1": "Sottopiede in pelle naturale a concia vegetale con lattice ai carbini attivi che assorbe ed elimina i cattivi odori",
+	"desc2": "Grazie all'utilizzo di prodotti ddi alta qualità otteniamo un sottopiede comodo e soffice. La pelle permette la traspirazione del piede, mantenendolo asciutto. Adatto per le calzature più eleganti",
+	"url_img": "https://s20.postimg.org/f6ecg9pmh/Pelle_carbone.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 8,
 	"id_chiave": 0,
-	"title": "CREMA AUTOBRILLANTE",
-	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
-	"desc2": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo. Nutre e lucida all'istante senza bisogno di spazzolare. Facile da usare: Immergere delicatamente lo spandilucido nella crema. Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare. Non serve ripassare con un panno o spazzolare per lucidare.",
-	"url_img": "https://s20.postimg.org/d9lamoqgp/20150429_094909.jpg",
-	"categoria": "acessorio"
+	"title": "Alu-lana",
+	"desc1": "Sottopiede di pura lana trapuntata con base in alluminio autoadesivo",
+	"desc2": "garantisce stabilità all'interno della calzatura. Grazie alle sue proprietà termiche e d'isolamento è considerato il sottopiede più avanzato per mantenere caldi i piedi durante l'inverno. E' sottile ed adatto per qualsiasi calzatura.",
+	"url_img": "https://s20.postimg.org/rkrh5qlfd/Alu_lana.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 9,
 	"id_chiave": 0,
-	"title": "SHOE CREAM",
-	"desc1": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml.",
-	"desc2": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml. L'uso dei colorati mantiene la tonalità della pelle.Istruzioni d'uso: applicarla uniformemente con un panno o uno spandilucido e strofinare.Spazzolare oppure strofinare con un panno pulito per dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "lucido"
+	"title": "Suoletta pile",
+	"desc1": "Sottopiede di pile morbido",
+	"desc2": "Ottime proprietà termiche e base in lattice antiscivolo che garantisce stabilità all'interno della calzatura. Adatto per qualsiasi calzatura",
+	"url_img": "https://s20.postimg.org/ih7atw4xl/Pile.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 10,
 	"id_chiave": 0,
-	"title": "CREMA LUX",
-	"desc1": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata.",
-	"desc2": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata. Ideale per calzature, arredamento, abbigliamento, pelletteria ed accessori. Istruzioni per l'uso: applicare una piccola quantità di prodotto con un panno pulito e strofinare,Lasciare asciugare e ripassare con un panno per lucidare.",
-	"url_img": "https://s20.postimg.org/d9lamoqgp/20150429_094909.jpg",
-	"categoria": "laccio"
-}, {
-	"ID": 4,
-	"id_chiave": 0,
-	"title": "CREMA DETERGENTE",
-	"desc1": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.",
-	"desc2": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.Adatto per calzature, borse, abbigliamento, interni d'auto etc..Non usare su pelle scamosciata.Istruzioni d'uso: Applicare con un panno morbido e pulito, strofinando con movimenti circolari su tutta la superficie. in particolare sulle zone più sporche. Con un altro panno morbido e pulito pulire su tutta la superficie, sempre con movimenti circolari, togliendo ogni residuo.",
-	"url_img": "https://s20.postimg.org/jm0fwitix/2014-06-04_13.37.59.jpg",
-	"categoria": "borchiatura"
-}, {
-	"ID": 5,
-	"id_chiave": 0,
-	"title": "CREMA NUTRIENTE",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "lucido"
+	"title": "Sport time",
+	"desc1": "Sottopiede anatomico in lattice antibatterico e traspirabile",
+	"desc2": "Sottopiede rivestito in tessuto cotone. Sostiene il piede ed assorbe gli urti durante l'attività sportiva. Adatto per calzature sportive e casual",
+	"url_img": "https://s20.postimg.org/mmi7ft2pl/Sport_Time.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 11,
-	"id_chiave": 1,
-	"title": "Chiave errebi 1",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/bvtnrdr7d/14072010154.jpg",
-	"categoria": "chiave"
+	"id_chiave": 0,
+	"title": "Sanremo riviera",
+	"desc1": "Solette igieniche in spugna di cotone e schiuma di lattice naturale",
+	"desc2": "Adatte all'uso quotidiano la loro particolare conformazione ne permette l'utilizzo anche senza calze. Nuova formula con sostanza igienizzante e rinfrescante delicatamente profumata. Lavabili in acqua tiepida",
+	"url_img": "https://s20.postimg.org/4dbflhxq1/Sanremo_riviera.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 12,
-	"id_chiave": 2,
-	"title": "Chiave errebi 2",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/bvtnrdr7d/14072010154.jpg",
-	"categoria": "chiave"
-}, {
-	"ID": 1,
 	"id_chiave": 0,
-	"title": "CREMA AUTOBRILLANTE",
-	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
-	"desc2": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo. Nutre e lucida all'istante senza bisogno di spazzolare. Facile da usare: Immergere delicatamente lo spandilucido nella crema. Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare. Non serve ripassare con un panno o spazzolare per lucidare.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "acessorio"
-}, {
-	"ID": 2,
-	"id_chiave": 0,
-	"title": "SHOE CREAM",
-	"desc1": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml.",
-	"desc2": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml. L'uso dei colorati mantiene la tonalità della pelle.Istruzioni d'uso: applicarla uniformemente con un panno o uno spandilucido e strofinare.Spazzolare oppure strofinare con un panno pulito per dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "lucido"
+	"title": "Bama fresh famoos",
+	"desc1": "Soletta in vero muschio per piedi gradevolmente asciutti",
+	"desc2": "Prodotta in modo tale da prevenire la formazioe dei batteri",
+	"url_img": "https://s20.postimg.org/hsp9jgrg9/Bama_fresh_famoos.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 13,
 	"id_chiave": 0,
-	"title": "CREMA LUX",
-	"desc1": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata.",
-	"desc2": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata. Ideale per calzature, arredamento, abbigliamento, pelletteria ed accessori. Istruzioni per l'uso: applicare una piccola quantità di prodotto con un panno pulito e strofinare,Lasciare asciugare e ripassare con un panno per lucidare.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "laccio"
+	"title": "Bama running sport",
+	"desc1": "Ideale per gli sportivi",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/64v7ox2bd/Bama_running_sport.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 14,
 	"id_chiave": 0,
-	"title": "CREMA DETERGENTE",
-	"desc1": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.",
-	"desc2": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.Adatto per calzature, borse, abbigliamento, interni d'auto etc..Non usare su pelle scamosciata.Istruzioni d'uso: Applicare con un panno morbido e pulito, strofinando con movimenti circolari su tutta la superficie. in particolare sulle zone più sporche. Con un altro panno morbido e pulito pulire su tutta la superficie, sempre con movimenti circolari, togliendo ogni residuo.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "borchiatura"
+	"title": "Sottopiede d2",
+	"desc1": "Sottopiede in pelle naturale conciata al vegetale con supporto in poliuretano anallergico aerato",
+	"desc2": "Per il miglior utilizzo dei sottopiedi D2 si consiglia di asportarli dalle calzature quando non vengono indossate",
+	"url_img": "https://s20.postimg.org/c8lz0b7cp/Sottopiede_d2.jpg",
+	"categoria": "chiave"
 }, {
 	"ID": 15,
 	"id_chiave": 0,
-	"title": "CREMA NUTRIENTE",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "lucido"
+	"title": "Bison support",
+	"desc1": "Soletta in cuoio",
+	"desc2": "Sottile, igienica, in cuoio vegetale con morbido supporto in lattice. Ad alta traspirabilità, assicura il massimo comfort. Resistente all'acido del sudore",
+	"url_img": "https://s20.postimg.org/u9vx6mmm5/Bison_support.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 16,
-	"id_chiave": 1,
-	"title": "Chiave errebi 1",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/jm0fwitix/2014-06-04_13.37.59.jpg",
-	"categoria": "chiave"
+	"id_chiave": 0,
+	"title": "Special 2001",
+	"desc1": "Solette anatomiche in cuoio e morbida shiuma di poliuretano per prevenire l'affaticamento del piede",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/7nzsldnnd/Special_2001.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 17,
-	"id_chiave": 2,
-	"title": "Chiave errebi 2",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s6.postimg.org/ymkhnfib5/autobrillante_lucido.jpg",
-	"categoria": "chiave"
+	"id_chiave": 0,
+	"title": "Pentathlon",
+	"desc1": "Solette anatomiche particolarmente adatte all'utilizzo in calzature sportive",
+	"desc2": "La conformazione anatomica e i materiali utilizzati sono mirati ad ottenere il massimo confort, igienicità e durata. Per un utilizzo corretto delle suolette si consiglia di asportarle dalle calzature quando non vengono utilizzate. Lavabili con acqua fredda e sapone neutro",
+	"url_img": "https://s20.postimg.org/6qtdcic55/Pentathlon.jpg",
+	"categoria": "suoletta"
 }, {
 	"ID": 18,
 	"id_chiave": 0,
-	"title": "Suoletta 1",
-	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml",
-	"desc2": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo. Nutre e lucida all'istante senza bisogno di spazzolare. Facile da usare: Immergere delicatamente lo spandilucido nella crema. Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare. Non serve ripassare con un panno o spazzolare per lucidare.",
-	"url_img": "https://s20.postimg.org/9nfxtf115/Carbon_Tex.jpg",
-	"categoria": "suoletta"
+	"title": "Kid soffice",
+	"desc1": "Sottopiede di morbido lattice rivestito in tessuto stampato",
+	"desc2": "Il lattice garantisce stabilità all'interno della calzatura. Con trattamento antibatterico ed aromatizzata. Morbida, comoda ed igienica",
+	"url_img": "https://s20.postimg.org/ys2tcgs1l/Kid_Soffice.jpg",
+	"categoria": "chiave"
 }, {
 	"ID": 19,
 	"id_chiave": 0,
-	"title": "Suoletta 2",
-	"desc1": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml.",
-	"desc2": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml. L'uso dei colorati mantiene la tonalità della pelle.Istruzioni d'uso: applicarla uniformemente con un panno o uno spandilucido e strofinare.Spazzolare oppure strofinare con un panno pulito per dare lucentezza.",
-	"url_img": "https://s20.postimg.org/b3rgbk3y1/Carbone_Attivo.jpg",
+	"title": "Brava",
+	"desc1": "Contro l'affaticamento del piede. Supporto in pelle per tutto il piede.Dona sollievo ai piedi affaticati",
+	"desc2": "Il relax per il piede e quindi di tutto il corpo. Un elastico ed anatomico cuscino per il piede, con speciali morbidi rilievi per ammortizzare l'urto con il suolo. Defatica la colonna vertebrale e tutte le giunture, rendendo agevole il camminare",
+	"url_img": "https://s20.postimg.org/rtu3ss4jd/Brava.jpg",
 	"categoria": "suoletta"
 }, {
 	"ID": 20,
 	"id_chiave": 0,
-	"title": "Suoletta 3",
-	"desc1": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata.",
-	"desc2": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata. Ideale per calzature, arredamento, abbigliamento, pelletteria ed accessori. Istruzioni per l'uso: applicare una piccola quantità di prodotto con un panno pulito e strofinare,Lasciare asciugare e ripassare con un panno per lucidare.",
-	"url_img": "https://s20.postimg.org/6j59wmk8p/foto_ZEPPGel.jpg",
+	"title": "Alta prestige",
+	"desc1": "Soletta sostitutiva a tacco alto. Forma anatomica per massimo comfort",
+	"desc2": "Microfibra altamente traspirante. Passi soffici su leggera struttura rialzata. Disponibilità: 36/7 38/9 40/1",
+	"url_img": "https://s20.postimg.org/93x2ex5h5/Alta_prestige.jpg",
 	"categoria": "suoletta"
 }, {
 	"ID": 21,
 	"id_chiave": 0,
-	"title": "Suoletta 4",
-	"desc1": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.",
-	"desc2": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata.Adatto per calzature, borse, abbigliamento, interni d'auto etc..Non usare su pelle scamosciata.Istruzioni d'uso: Applicare con un panno morbido e pulito, strofinando con movimenti circolari su tutta la superficie. in particolare sulle zone più sporche. Con un altro panno morbido e pulito pulire su tutta la superficie, sempre con movimenti circolari, togliendo ogni residuo.",
-	"url_img": "https://s20.postimg.org/jm0fwitix/2014-06-04_13.37.59.jpg",
+	"title": "Soletta relax Prestige",
+	"desc1": "Soletta anatomica, in pregiata pelle bovina, supporto metarsale e filtro di carbone attivo antiodore",
+	"desc2": "Ad alta traspirabilità, resistente all 'acido del sudore, assicura massimo comfort. Arco plantare per un efficace e comodo appoggio alla volta del piede",
+	"url_img": "https://s20.postimg.org/4rcrl3htp/SOLETTA_RELAX_PRESTIGE.jpg",
 	"categoria": "suoletta"
 }, {
 	"ID": 22,
 	"id_chiave": 0,
-	"title": "Suoletta 5",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/x5hqlloft/Lana_Trasparente.jpg",
+	"title": "Reflex plantare anatomico antibatterico indeformabile",
+	"desc1": "Plantare speciale disinfettante e deodorante. Materiale particolare trattato, antimicrobico e inibitore della corrosione",
+	"desc2": "Grande assorbimento per mantenere il piede sempre riposato. Molto resistente, conserva le caratteristiche anche dopo ripetuti lavaggi. Ottima traspirazione del piede, efficace in ogni stagione e adatto in particolare per sportivi e grandi camminatori",
+	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
 	"categoria": "suoletta"
 }, {
 	"ID": 23,
 	"id_chiave": 0,
-	"title": "Suoletta 6",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/veypk46wp/S_Anatomico_Pelle.jpg",
+	"title": "Comfort tre soletta light anatomica bassa/alta",
+	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
+	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
+	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
 	"categoria": "suoletta"
 }, {
 	"ID": 24,
 	"id_chiave": 0,
-	"title": "Suoletta 7",
-	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml.",
-	"desc2": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml. Nutre la pelle mantenendola morbida e rendendola soffice al tatto.Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare.Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza.",
-	"url_img": "https://s20.postimg.org/r73xbd5h5/S_Antiscivolo_Gel.jpg",
+	"title": "Bama comfort",
+	"desc1": "Ideali per le sneakers",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
 	"categoria": "suoletta"
-}]
+}
+]
