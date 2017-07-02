@@ -29,7 +29,7 @@
 	"title": "Carbon tex",
 	"desc1": "Suoletta confezionata con materiali che garantiscono un ottimo confort e una perfetta traspirazione del vostro piede",
 	"desc2": "I carboni attivi agiscono in modo da assorbire la traspirazione e distruggere gli odori da scarpe e piedi",
-	"url_img": "https://s20.postimg.org/444o43661/Carbon_Tex.jpg",
+	"url_img": "https://s20.postimg.org/68p1567st/Carbon_Tex.jpg",
 	"categoria": "suoletta"
 }, {
 	"ID": 5,
@@ -185,6 +185,102 @@
 	"categoria": "suoletta"
 }, {
 	"ID": 24,
+	"id_chiave": 0,
+	"title": "Bama comfort",
+	"desc1": "Ideali per le sneakers",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 25,
+	"id_chiave": 0,
+	"title": "Braccialetti borchiati",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/w3fi71725/IMG_20170606_113707038.jpg",
+	"categoria": "borchiature"
+}, {
+	"ID": 26,
+	"id_chiave": 0,
+	"title": "Braccialetti borchiati",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/8zf1eg3r1/IMG_20170606_113711049_HDR.jpg",
+	"categoria": "borchiature"
+}, {
+	"ID": 27,
+	"id_chiave": 0,
+	"title": "Cuori borchiati",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/3zhl6hy4d/IMG_20170606_114138225.jpg",
+	"categoria": "borchiature"
+}, {
+	"ID": 28,
+	"id_chiave": 0,
+	"title": "Reflex plantare anatomico antibatterico indeformabile",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
+	"categoria": "niente"
+}, {
+	"ID": 29,
+	"id_chiave": 0,
+	"title": "Comfort tre soletta light anatomica bassa/alta",
+	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
+	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
+	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 30,
+	"id_chiave": 0,
+	"title": "Bama comfort",
+	"desc1": "Ideali per le sneakers",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 31,
+	"id_chiave": 0,
+	"title": "Reflex plantare anatomico antibatterico indeformabile",
+	"desc1": "Plantare speciale disinfettante e deodorante. Materiale particolare trattato, antimicrobico e inibitore della corrosione",
+	"desc2": "Grande assorbimento per mantenere il piede sempre riposato. Molto resistente, conserva le caratteristiche anche dopo ripetuti lavaggi. Ottima traspirazione del piede, efficace in ogni stagione e adatto in particolare per sportivi e grandi camminatori",
+	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 32,
+	"id_chiave": 0,
+	"title": "Comfort tre soletta light anatomica bassa/alta",
+	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
+	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
+	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 33,
+	"id_chiave": 0,
+	"title": "Bama comfort",
+	"desc1": "Ideali per le sneakers",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 34,
+	"id_chiave": 0,
+	"title": "Reflex plantare anatomico antibatterico indeformabile",
+	"desc1": "Plantare speciale disinfettante e deodorante. Materiale particolare trattato, antimicrobico e inibitore della corrosione",
+	"desc2": "Grande assorbimento per mantenere il piede sempre riposato. Molto resistente, conserva le caratteristiche anche dopo ripetuti lavaggi. Ottima traspirazione del piede, efficace in ogni stagione e adatto in particolare per sportivi e grandi camminatori",
+	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 35,
+	"id_chiave": 0,
+	"title": "Comfort tre soletta light anatomica bassa/alta",
+	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
+	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
+	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
+	"categoria": "suoletta"
+}, {
+	"ID": 36,
 	"id_chiave": 0,
 	"title": "Bama comfort",
 	"desc1": "Ideali per le sneakers",
