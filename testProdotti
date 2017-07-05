@@ -195,9 +195,9 @@
 	"ID": 25,
 	"id_chiave": 0,
 	"title": "Braccialetti borchiati",
-	"desc1": "",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
-	"url_img": "https://s20.postimg.org/w3fi71725/IMG_20170606_113707038.jpg",
+	"url_img": "https://s20.postimg.org/e537srzlp/IMG_20170606_113707038.jpg",
 	"categoria": "borchiatura"
 }, {
 	"ID": 26,
@@ -205,87 +205,223 @@
 	"title": "Braccialetti borchiati",
 	"desc1": "",
 	"desc2": "",
-	"url_img": "https://s20.postimg.org/8zf1eg3r1/IMG_20170606_113711049_HDR.jpg",
+	"url_img": "https://s20.postimg.org/8sedenbp9/IMG_20170606_113711049_HDR.jpg",
 	"categoria": "borchiatura"
 }, {
 	"ID": 27,
 	"id_chiave": 0,
 	"title": "Cuori borchiati",
-	"desc1": "",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
 	"url_img": "https://s20.postimg.org/3zhl6hy4d/IMG_20170606_114138225.jpg",
 	"categoria": "borchiatura"
 }, {
 	"ID": 28,
 	"id_chiave": 0,
-	"title": "Reflex plantare anatomico antibatterico indeformabile",
-	"desc1": "",
+	"title": "Portafogli borchiati",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
-	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
-	"categoria": "niente"
+	"url_img": "https://s20.postimg.org/l9l11t6v1/IMG_20170606_113716262_HDR.jpg",
+	"categoria": "borchiatura"
 }, {
 	"ID": 29,
 	"id_chiave": 0,
-	"title": "Comfort tre soletta light anatomica bassa/alta",
-	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
-	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
-	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
-	"categoria": "suoletta"
+	"title": "Portachiavi borchiati",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/6105l5ji5/IMG_20170606_115108328_HDR.jpg",
+	"categoria": "borchiatura"
 }, {
 	"ID": 30,
 	"id_chiave": 0,
-	"title": "Bama comfort",
-	"desc1": "Ideali per le sneakers",
+	"title": "Colla superlux",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
-	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
-	"categoria": "suoletta"
+	"url_img": "https://s20.postimg.org/hemowcu0t/IMG_20170606_115316166_HDR.jpg",
+	"categoria": "collante"
 }, {
 	"ID": 31,
 	"id_chiave": 0,
-	"title": "Reflex plantare anatomico antibatterico indeformabile",
-	"desc1": "Plantare speciale disinfettante e deodorante. Materiale particolare trattato, antimicrobico e inibitore della corrosione",
-	"desc2": "Grande assorbimento per mantenere il piede sempre riposato. Molto resistente, conserva le caratteristiche anche dopo ripetuti lavaggi. Ottima traspirazione del piede, efficace in ogni stagione e adatto in particolare per sportivi e grandi camminatori",
-	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
-	"categoria": "suoletta"
+	"title": "Diluente",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/rtsv59r7h/IMG_20170606_115328934_HDR.jpg",
+	"categoria": "collante"
 }, {
 	"ID": 32,
 	"id_chiave": 0,
-	"title": "Comfort tre soletta light anatomica bassa/alta",
-	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
-	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
-	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
-	"categoria": "suoletta"
+	"title": "Adesivo 8001 AF",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/92qxv3wn1/IMG_20170606_115356363_HDR.jpg",
+	"categoria": "collante"
 }, {
 	"ID": 33,
 	"id_chiave": 0,
-	"title": "Bama comfort",
-	"desc1": "Ideali per le sneakers",
+	"title": "Pre-Attac",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
-	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
-	"categoria": "suoletta"
+	"url_img": "https://s20.postimg.org/9n5yxspvh/IMG_20170606_115402950_HDR.jpg",
+	"categoria": "collante"
 }, {
 	"ID": 34,
 	"id_chiave": 0,
-	"title": "Reflex plantare anatomico antibatterico indeformabile",
-	"desc1": "Plantare speciale disinfettante e deodorante. Materiale particolare trattato, antimicrobico e inibitore della corrosione",
-	"desc2": "Grande assorbimento per mantenere il piede sempre riposato. Molto resistente, conserva le caratteristiche anche dopo ripetuti lavaggi. Ottima traspirazione del piede, efficace in ogni stagione e adatto in particolare per sportivi e grandi camminatori",
-	"url_img": "https://s20.postimg.org/ow6bqkbnd/Reflex_plantare_anatomico_antibatterico_indeform.jpg",
-	"categoria": "suoletta"
+	"title": "SuperSpeed",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/u8kqpp7gd/IMG_20170606_115413682_HDR.jpg",
+	"categoria": "collante"
 }, {
 	"ID": 35,
 	"id_chiave": 0,
-	"title": "Comfort tre soletta light anatomica bassa/alta",
-	"desc1": "Soletta in schiuma di lattice Soletta comoda e igienica unita con pelle o materiali mirati ad ottenere massimo comfort e durata",
-	"desc2": "Dona al piede una superficie d'appoggio morbida, ammortizzando l'impatto con il suolo. Lavabile con acqua tiepida e sapone neutro",
-	"url_img": "https://s20.postimg.org/5lq4fnawp/Comfort_tre_soletta_light_anatomica_bassa_alta.jpg",
-	"categoria": "suoletta"
+	"title": "Cianolux",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/r304zhou5/IMG_20170606_115424509.jpg",
+	"categoria": "collante"
 }, {
 	"ID": 36,
 	"id_chiave": 0,
-	"title": "Bama comfort",
-	"desc1": "Ideali per le sneakers",
+	"title": "PrtoColee S",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
-	"url_img": "https://s20.postimg.org/3uaxpyvp9/Bama_comfort.jpg",
+	"url_img": "https://s20.postimg.org/f4yklll31/IMG_20170606_115430998_HDR.jpg",
+	"categoria": "collante"
+}, {
+	"ID": 37,
+	"id_chiave": 0,
+	"title": "Traspalux",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/58xhlyfb1/IMG_20170606_120452820.jpg",
+	"categoria": "collante"
+}, {
+	"ID": 38,
+	"id_chiave": 0,
+	"title": "Colle De Cologne",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "https://s20.postimg.org/cq6p164u5/IMG_20170606_121038056.jpg",
+	"categoria": "collante"
+}, {
+	"ID": 39,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "chiave"
+}, {
+	"ID": 40,
+	"id_chiave": 0,
+	"title": "Crema Autobbrilante",
+	"desc1": "Crema autolucidante a base di cera naturale in vasetto da 50ml con spandilucido inserito nel tappo",
+	"desc2": "Nutre e lucida all istante senza bisogno di spazzolare. Facile da usare: Immergere delicatamente lo spandilucido nella crema. Stendere uniformemente la crema su tutta la calzatura, senza lasciare che si asciughi durante l'applicazione e lasciare asciugare. Non serve ripassare con un panno o spazzolare per lucidare",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 41,
+	"id_chiave": 0,
+	"title": "Show Cream",
+	"desc1": "Morbida crema a base di cera per lucidare e nutrire la pella liscia, in vasetto da 50ml",
+	"desc2": "L'uso dei colorati mantiene la tonalità della pelle. Istruzioni d'uso: applicarla uniformemente con un panno o uno spandilucido e strofinare. Spazzolare oppure strofinare con un panno pulito per dare lucentezza",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 42,
+	"id_chiave": 0,
+	"title": "Crema Lux",
+	"desc1": "Crema detergente in flacone da 135ml. Pulisce la pelle liscia, rettile e verniciata",
+	"desc2": "Ideale per calzature, arredamento, abbigliamento, pelletteria ed accessori. Istruzioni per l'uso: applicare una piccola quantità di prodotto con un panno pulito e strofinare, Lasciare asciugare e ripassare con un panno per lucidare",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 43,
+	"id_chiave": 0,
+	"title": "Crema Detergente",
+	"desc1": "Crema detergente incolore per pulire la pelle liscia. delicata, di rettile e verniciata",
+	"desc2": "Adatto per calzature, borse, abbigliamento, interni d'auto etc.. Non usare su pelle scamosciata",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 44,
+	"id_chiave": 0,
+	"title": "Crema Nutriente",
+	"desc1": "Crema nutriente a base di cera per pelle liscia anche delicata (non di vernice) in vaso da 250ml",
+	"desc2": "Nutre la pelle mantenendola morbida e rendendola soffice al tatto. Istruzioni d'uso: pulire la pelle con un panno morbido e pulito, con movimenti circolari su tutta la superficie.Lasciare asciugare. Con una parte pulita del panno, pulire su tutta la superficie per togliere ogni residuo e dare lucentezza",
+	"url_img": "",
+	"categoria": "suoletta"
+}, {
+	"ID": 45,
+	"id_chiave": 0,
+	"title": "Grasso Dubbin",
+	"desc1": "Grasso incolore per pulire, ammorbidire e impermeabilizzare pelle liscia naturale, ingrassata e cuoio",
+	"desc2": "Ideale per calzature di cuoio ingrassato, sportive, da trekking, da caccia etc...",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 46,
+	"id_chiave": 0,
+	"title": "Olio Mink",
+	"desc1": "Miscela per olii per pulire, ammorbidire e impermeabilizzare pelle naturale, ingrassata e nubuck",
+	"desc2": "Applicare una piccola quantità e stenderla, strofinando con un panno pulito. Lasciare asciugare e spazzolare o lucidare con un panno pulito",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 47,
+	"id_chiave": 0,
+	"title": "Colour Dye",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 48,
+	"id_chiave": 0,
+	"title": "Deodorant",
+	"desc1": "Deodorante profumato per calzature in spray 200ml",
+	"desc2": "Elimina i cattivi odori lasciando un gradevole profumo duraturo",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 49,
+	"id_chiave": 0,
+	"title": "Eco-Deo Igienizzante",
+	"desc1": "Igienizzante profumato per calzature in formato eco-spray 100 ml (senza gas)",
+	"desc2": "Igienizza completamente, elimina i cattivi odori e lascia un gradevole profumo duraturo",
+	"url_img": "",
+	"categoria": "suoletta"
+}, {
+	"ID": 50,
+	"id_chiave": 0,
+	"title": "Sapone",
+	"desc1": "Sapone per pulire il cuoio in vaso da 100 ml di plastica",
+	"desc2": "Ideale per tutti gli accessori di cuoio per equitazione, caccia etc... Istruzioni d'uso: Strofinare sul sapone con una spugna inumidita e sfregare energicamente sul cuoio. Eliminare i residui di schiuma",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 51,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 52,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "lucido"
+}, {
+	"ID": 49,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
 	"categoria": "suoletta"
 }
 ]
