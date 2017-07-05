@@ -203,7 +203,7 @@
 	"ID": 26,
 	"id_chiave": 0,
 	"title": "Braccialetti borchiati",
-	"desc1": "",
+	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
 	"url_img": "https://s20.postimg.org/8sedenbp9/IMG_20170606_113711049_HDR.jpg",
 	"categoria": "borchiatura"
@@ -235,7 +235,7 @@
 	"ID": 30,
 	"id_chiave": 0,
 	"title": "Colla superlux",
-	"desc1": "Descrizione in aggiornamento",
+	"desc1": "Adesivo policloroprenico colore giallo-pagliarino tradizionale per calzolaio",
 	"desc2": "",
 	"url_img": "https://s20.postimg.org/hemowcu0t/IMG_20170606_115316166_HDR.jpg",
 	"categoria": "collante"
@@ -243,7 +243,7 @@
 	"ID": 31,
 	"id_chiave": 0,
 	"title": "Diluente",
-	"desc1": "Descrizione in aggiornamento",
+	"desc1": "Diluente per colla al neoprenev",
 	"desc2": "",
 	"url_img": "https://s20.postimg.org/rtsv59r7h/IMG_20170606_115328934_HDR.jpg",
 	"categoria": "collante"
@@ -259,7 +259,7 @@
 	"ID": 33,
 	"id_chiave": 0,
 	"title": "Pre-Attac",
-	"desc1": "Descrizione in aggiornamento",
+	"desc1": "Aggrappante a freddo, poliuretanico per preparare l'incollaggio di materiali plastici",
 	"desc2": "",
 	"url_img": "https://s20.postimg.org/9n5yxspvh/IMG_20170606_115402950_HDR.jpg",
 	"categoria": "collante"
@@ -291,7 +291,7 @@
 	"ID": 37,
 	"id_chiave": 0,
 	"title": "Traspalux",
-	"desc1": "Descrizione in aggiornamento",
+	"desc1": "Adesivo policloroprenico trasparente tradizionale per calzolaio",
 	"desc2": "",
 	"url_img": "https://s20.postimg.org/58xhlyfb1/IMG_20170606_120452820.jpg",
 	"categoria": "collante"
@@ -306,11 +306,11 @@
 }, {
 	"ID": 39,
 	"id_chiave": 0,
-	"title": "",
-	"desc1": "Descrizione in aggiornamento",
+	"title": "Colla Artiglio",
+	"desc1": "Adesivo policloroprenico speciale per incollare fortemente cuoio, pelle, sughero, feltro, plastica e gomma",
 	"desc2": "",
 	"url_img": "",
-	"categoria": "chiave"
+	"categoria": "collante"
 }, {
 	"ID": 40,
 	"id_chiave": 0,
@@ -390,7 +390,7 @@
 	"desc1": "Igienizzante profumato per calzature in formato eco-spray 100 ml (senza gas)",
 	"desc2": "Igienizza completamente, elimina i cattivi odori e lascia un gradevole profumo duraturo",
 	"url_img": "",
-	"categoria": "suoletta"
+	"categoria": "lucido"
 }, {
 	"ID": 50,
 	"id_chiave": 0,
@@ -402,26 +402,186 @@
 }, {
 	"ID": 51,
 	"id_chiave": 0,
-	"title": "",
-	"desc1": "Descrizione in aggiornamento",
+	"title": "Magi-Dyes & Shoe Sreacher",
+	"desc1": "Questi prodotti hanno il potere di elasticizzare istantaneamente qualsiasi tipo di pellame",
 	"desc2": "",
 	"url_img": "",
-	"categoria": "lucido"
+	"categoria": "collante"
 }, {
 	"ID": 52,
 	"id_chiave": 0,
-	"title": "",
-	"desc1": "Descrizione in aggiornamento",
-	"desc2": "",
+	"title": "Adesivo tipo 100 Klebertek",
+	"desc1": "Adesivo policoroprenico colore pagliarino ad alta presa iniziale ed elevata forza di incollaggio con buona resistenza termica",
+	"desc2": "Incollaggio di pelle, cuoio, microporosa, legno e sughero",
 	"url_img": "",
-	"categoria": "lucido"
+	"categoria": "collante"
 }, {
-	"ID": 49,
+	"ID": 53,
+	"id_chiave": 0,
+	"title": "Gelux gel 2 tubetti",
+	"desc1": "Adesivo cianoacrilico istantaneo ad alta viscosità che consente di colmare spazi ampi",
+	"desc2": "Incolla perfettamente mantenendo l'elasticità. Il tempo di fissaggio consente il riposizionamento delle parti",
+	"url_img": "",
+	"categoria": "collante"
+}, {
+	"ID": 54,
+	"id_chiave": 0,
+	"title": "Mezza suola Dunlop",
+	"desc1": "Disbonibile nera o marrone",
+	"desc2": "Misure 1, 2 e 3",
+	"url_img": "",
+	"categoria": "gomma"
+}, {
+	"ID": 55,
+	"id_chiave": 0,
+	"title": "Mezza suola Scarpalux Venus",
+	"desc1": "Disponibile in colore nero, marrone e miele",
+	"desc2": "Misure donna e uomo",
+	"url_img": "",
+	"categoria": "gomma"
+}, {
+	"ID": 56,
+	"id_chiave": 0,
+	"title": "Mezza suola 102",
+	"desc1": "Disponibile in colore nero, marrone e miele",
+	"desc2": "Varie misure da donna e da uomo",
+	"url_img": "",
+	"categoria": "gomma"
+}, {
+	"ID": 57,
+	"id_chiave": 0,
+	"title": "Tacchi in gomma Dunlop",
+	"desc1": "Disponibili in colore nero e marrone",
+	"desc2": "Varie misure :1, 2 e 3",
+	"url_img": "",
+	"categoria": "gomma"
+}, {
+	"ID": 58,
 	"id_chiave": 0,
 	"title": "",
 	"desc1": "Descrizione in aggiornamento",
 	"desc2": "",
 	"url_img": "",
-	"categoria": "suoletta"
+	"categoria": "gomma"
+}, {
+	"ID": 59,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "gomma"
+}, {
+	"ID": 60,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "minuteria"
+}, {
+	"ID": 61,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "minuteria"
+}, {
+	"ID": 62,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "minuteria"
+}, {
+	"ID": 63,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "minuteria"
+}, {
+	"ID": 64,
+	"id_chiave": 0,
+	"title": "",
+	"desc1": "Descrizione in aggiornamento",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "minuteria"
+}, {
+	"ID": 65,
+	"id_chiave": 0,
+	"title": "Rotonda fine",
+	"desc1": "Rotonda fine 100% cotone",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 66,
+	"id_chiave": 0,
+	"title": "Rotonda media",
+	"desc1": "Rotonda media 100% cotone. Indicato per calzature sportive ed urbane",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 67,
+	"id_chiave": 0,
+	"title": "Rotonda pesante",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 68,
+	"id_chiave": 0,
+	"title": "Piatta media",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 69,
+	"id_chiave": 0,
+	"title": "Piatta larga",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 70,
+	"id_chiave": 0,
+	"title": "Rotonda fine cerata",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 71,
+	"id_chiave": 0,
+	"title": "Sport ovale",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 72,
+	"id_chiave": 0,
+	"title": "Rotonda tekni",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
+}, {
+	"ID": 72,
+	"id_chiave": 0,
+	"title": "altro",
+	"desc1": "",
+	"desc2": "",
+	"url_img": "",
+	"categoria": "laccio"
 }
 ]
