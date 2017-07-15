@@ -106,9 +106,9 @@
 }, {
 	"ID": 14,
 	"id_chiave": 0,
-	"title": "Sottopiede d2",
-	"desc1": "Sottopiede in pelle naturale conciata al vegetale con supporto in poliuretano anallergico aerato",
-	"desc2": "Per il miglior utilizzo dei sottopiedi D2 si consiglia di asportarli dalle calzature quando non vengono indossate",
+	"title": "chiave 1",
+	"desc1": "chiave 1",
+	"desc2": "chiave 1",
 	"url_img": "https://s20.postimg.org/c8lz0b7cp/Sottopiede_d2.jpg",
 	"categoria": "chiave"
 }, {
@@ -137,10 +137,10 @@
 	"categoria": "suoletta"
 }, {
 	"ID": 18,
-	"id_chiave": 0,
-	"title": "Kid soffice",
-	"desc1": "Sottopiede di morbido lattice rivestito in tessuto stampato",
-	"desc2": "Il lattice garantisce stabilità all'interno della calzatura. Con trattamento antibatterico ed aromatizzata. Morbida, comoda ed igienica",
+	"id_chiave": 1,
+	"title": "Chiave 2",
+	"desc1": "Chiave numero 2",
+	"desc2": "Chiave numero 2",
 	"url_img": "https://s20.postimg.org/ys2tcgs1l/Kid_Soffice.jpg",
 	"categoria": "chiave"
 }, {
