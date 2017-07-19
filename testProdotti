@@ -728,11 +728,11 @@
 	"url_img": "",
 	"categoria": "altro"
 }, {
-	"ID": 100,
+	"ID": 200,
 	"id_chiave": 0,
-	"title": "PrtoColee S",
+	"title": "Descrizione in aggiornamento",
 	"desc1": "Descrizione in aggiornamento",
-	"desc2": "",
+	"desc2": "Descrizione in aggiornamento",
 	"url_img": "https://s20.postimg.org/f4yklll31/IMG_20170606_115430998_HDR.jpg",
 	"categoria": "collante"
 }
